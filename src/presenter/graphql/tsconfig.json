@@ -1,0 +1,10 @@
+{
+  "extends": "../../../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "../../../dist/presenter/graphql"
+  },
+  "files": [],
+  "references": [{ "path": "../../core" }],
+  "include": ["./src/**/*.ts", "**/*.ts"]
+}

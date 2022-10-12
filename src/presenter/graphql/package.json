@@ -1,0 +1,15 @@
+{
+  "name": "@monorepo/graphql",
+  "version": "0.0.1",
+  "description": "Monorepo poc",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monorepo"
+  ],
+  "author": "Sarawuth Pimsai",
+  "license": "ISC"
+}

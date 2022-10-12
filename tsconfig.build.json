@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "src/core" },
+    { "path": "src/infrastructure/storage" },
+    { "path": "src/presenter/express" },
+    { "path": "src/presenter/graphql" }
+  ]
+}
